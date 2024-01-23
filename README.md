@@ -27,6 +27,7 @@ This tool focuses on the training and deployment of Visual Wake Words using TFLi
 
 
 ## 3. Inference code
-- MCU(tflite):
+- [ML_M460_SampleCode](https://github.com/OpenNuvoton/ML_M460_SampleCode)
+  - `tflu_vww`: real time inference code
 
 
