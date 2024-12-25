@@ -26,10 +26,12 @@ This tool focuses on the training and deployment of Visual Wake Words using TFLi
 - Utilize the `Deployment` tab in `vww.ipynb` to convert the TFLite model to C source/header files.
 
 
-## 3. Inference code
-- [ML_M460_SampleCode](https://github.com/OpenNuvoton/ML_M460_SampleCode)
-  - `tflu_vww`: real time inference code
-- [M55M1](https://github.com/OpenNuvoton/M55M1BSP/tree/master/SampleCode/MachineLearning)
+## 3. Inference code 
+- The ML_SampleCode repositories are private. Please contact Nuvoton to request access to these sample codes. [Link](https://www.nuvoton.com/ai/contact-us/)
+  - [ML_M460_SampleCode (private repo)](https://github.com/OpenNuvoton/ML_M460_SampleCode)
+      - `tflu_vww`: real time inference code
+- [M55M1BSP](https://github.com/OpenNuvoton/M55M1BSP/tree/master/SampleCode/MachineLearning)
   - `VisualWakeWords`: real time inference code
+  
 
 
