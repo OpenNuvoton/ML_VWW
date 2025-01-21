@@ -7,5 +7,3 @@ set model_argu= --tflite_path %MODEL_SRC_DIR%\%MODEL_SRC_FILE% --output_dir %GEN
 @echo on
 
 Tool\tflite2cpp\gen_model_cpp.exe %model_argu%
-
-pause

@@ -7,7 +7,5 @@ set model_argu= --tflite_path %MODEL_SRC_DIR%\%MODEL_OPTIMISE_FILE% --output_dir
 
 @echo on
 
-Tool\vela\vela-3_6_0.exe %vela_argu%
+Tool\vela\vela-4_0_1.exe %vela_argu%
 Tool\tflite2cpp\gen_model_cpp.exe %model_argu%
-
-pause
